@@ -66,12 +66,11 @@ This tool provides an end-to-end pipeline for extracting financial data from cor
 ├── chatbot_app.py              # Main application entry point (CLI)
 ├── api_key.txt                 # Your Google Gemini API key
 ├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-├── .gitignore                  
+├── README.md                   # Project documentation            
 │
 ├── fin_statements/             # Folder for your source PDF reports
 │   └── CompanyA/
-│       └── report_2023.pdf
+│       └── report_2024.pdf
 │
 ├── output/
 │   ├── excel_reports/          # Auto-generated Excel files from extracted tables
