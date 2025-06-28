@@ -91,4 +91,5 @@ This tool provides an end-to-end pipeline for extracting financial data from cor
 ## Author
 
 Zan Brezovnik
+
 *Developed as part of a Bachelor's thesis project.* 
